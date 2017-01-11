@@ -50,7 +50,7 @@ Documentation for each component can be find in the respective source directory.
 
 **Import Components**
 
-- **[import-external](/src/import-external)**: Import all data that is not directly form OpenStreetMap (NaturalEarth, OpenStreetMapData, custom data files)
+- **[import-external](/src/import-external)**: Import all data that is not directly from OpenStreetMap (NaturalEarth, OpenStreetMapData, custom data files)
 - **[import-osm](/src/import-osm)**: Import OpenStreetMap planet files into PostGIS using imposm3
 - **[import-sql](/src/import-sql)**: Provision and generate SQL used in the different layers. Contains most of the SQL logic.
 
